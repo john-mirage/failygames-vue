@@ -3,6 +3,6 @@
 
 <template>
     <main class="container mx-auto p-6">
-        <h1 class="text-2xl text-slate-900 dark:text-slate-50">L'acceuil</h1>
+        <h1 class="text-2xl text-slate-900 dark:text-slate-50">Le live</h1>
     </main>
 </template>
